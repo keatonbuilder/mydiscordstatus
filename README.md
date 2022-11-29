@@ -1,4 +1,4 @@
-# mydiscordstatusmeans
+# mydiscordstatus
  
 Set to be a website for Discord users to put what their status means. 
 
